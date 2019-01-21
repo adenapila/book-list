@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+.booklist{
+  font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.book{
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-column-gap: 1rem;
+  margin: 2rem;
+  font-family: 'Droid Arabic Kufi', serif;
+}
